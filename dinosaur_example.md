@@ -5,15 +5,15 @@ Size is an important aspect of **dinosaur paleontology**, of interest to both th
 
 Reconstructed skeleton of the titanosaur *Argentinosaurus huinculensis*, often considered the largest-known dinosaur
 
-Record sizes
+# Record sizes
 
 Scale diagram comparing a human and the largest-known dinosaurs of five major clades.
 
 The sauropods were the longest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than almost anything else in their habitat, and the largest were an order of magnitude more massive than anything else known to have walked the Earth since. Giant prehistoric mammals such as *Paraceratherium* and *Palaeoloxodon* (the largest land mammals ever discovered) were dwarfed by the giant sauropods, and only modern whales approach or surpass them in weight, though they live in the oceans.
 
-One of the tallest and heaviest dinosaurs known from good skeletons is *Giraffatitan brancai*. Its remains were discovered in Tanzania between 1907 and 1912. Bones from several similar-sized individuals were incorporated into the skeleton now mounted and on display at [the Museum für Naturkunde Berlin] (https://www.museumfuernaturkunde.berlin/de).
+One of the tallest and heaviest dinosaurs known from good skeletons is *Giraffatitan brancai*. Its remains were discovered in Tanzania between 1907 and 1912. Bones from several similar-sized individuals were incorporated into the skeleton now mounted and on display at [the Museum für Naturkunde Berlin](https://www.museumfuernaturkunde.berlin/de).
 
-Heaviest sauropodomorphs
+# Heaviest sauropodomorphs
 
 *Maraapunisaurus fragilimus*: 79–120 t (87–132 short tons)
 *Argentinosaurus huinculensis*: 65–100 t (72–110 short tons)
@@ -21,7 +21,7 @@ Heaviest sauropodomorphs
 *Patagotitan mayorum*: 52–77 t (57–85 short tons)
 *Notocolossus gonzalezparejasi*: 45–75.9 t (49.6–83.7 short tons)
 
-Longest sauropodomorphs
+# Longest sauropodomorphs
 
 *Barosaurus lentus*: 25–48 m (82–157 ft)
 *Maraapunisaurus fragilimus*: 30.2–40 metres (99–131 ft)
