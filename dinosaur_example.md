@@ -2,9 +2,9 @@
 
 Size is an important aspect of **dinosaur paleontology**, of interest to both the general public and professional scientists. Dinosaurs show some of the most extreme variations in size of any land animal group, ranging from tiny hummingbirds, which can weigh as little as two grams, to the extinct titanosaurs, which could weigh as much as 60–100 t (66–110 short tons). The latest evidence suggests that dinosaurs' average size **varied** through the Triassic, early Jurassic, late Jurassic and Cretaceous periods, and dinosaurs probably ***only became widespread*** during the early or mid Jurassic.
 
-    ![alt text](https://github.com/barankarapunar/dinosaur-markdown/blob/main/figures/Museum_koenig_ausstellung_2010.jpg)
+![alt text](https://github.com/barankarapunar/dinosaur-markdown/blob/main/figures/Museum_koenig_ausstellung_2010.jpg)
     
-    Reconstructed skeleton of the titanosaur *Argentinosaurus huinculensis*, often considered the largest-known dinosaur
+Reconstructed skeleton of the titanosaur *Argentinosaurus huinculensis*, often considered the largest-known dinosaur
 
 # Record sizes
 
@@ -13,9 +13,9 @@ The sauropods were the longest and heaviest dinosaurs. For much of the dinosaur 
 One of the tallest and heaviest dinosaurs known from good skeletons is *Giraffatitan brancai*. Its remains were discovered in Tanzania between 1907 and 1912. Bones from several similar-sized individuals were incorporated into the skeleton now mounted and on display at [the Museum für Naturkunde Berlin](https://www.museumfuernaturkunde.berlin/de).
 
 # Heaviest sauropodomorphs
-    ![alt text](https://github.com/barankarapunar/dinosaur-markdown/blob/main/figures/Longest_dinosaur_by_clade.svg.png)
+![alt text](https://github.com/barankarapunar/dinosaur-markdown/blob/main/figures/Longest_dinosaur_by_clade.svg.png)
 
-    Scale diagram comparing a human and the largest-known dinosaurs of five major clades.
+Scale diagram comparing a human and the largest-known dinosaurs of five major clades.
 
 1. *Maraapunisaurus fragilimus*: 79–120 t (87–132 short tons)
 2. *Argentinosaurus huinculensis*: 65–100 t (72–110 short tons)
