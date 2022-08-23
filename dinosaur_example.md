@@ -6,7 +6,7 @@ Size is an important aspect of **dinosaur paleontology**, of interest to both th
 Reconstructed skeleton of the titanosaur *Argentinosaurus huinculensis*, often considered the largest-known dinosaur
 
 # Record sizes
-
+![alt text](https://github.com/barankarapunar/dinosaur-markdown/blob/main/figures/Museum_koenig_ausstellung_2010.jpg)
 Scale diagram comparing a human and the largest-known dinosaurs of five major clades.
 
 The sauropods were the longest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than almost anything else in their habitat, and the largest were an order of magnitude more massive than anything else known to have walked the Earth since. Giant prehistoric mammals such as *Paraceratherium* and *Palaeoloxodon* (the largest land mammals ever discovered) were dwarfed by the giant sauropods, and only modern whales approach or surpass them in weight, though they live in the oceans.
@@ -14,7 +14,7 @@ The sauropods were the longest and heaviest dinosaurs. For much of the dinosaur 
 One of the tallest and heaviest dinosaurs known from good skeletons is *Giraffatitan brancai*. Its remains were discovered in Tanzania between 1907 and 1912. Bones from several similar-sized individuals were incorporated into the skeleton now mounted and on display at [the Museum für Naturkunde Berlin](https://www.museumfuernaturkunde.berlin/de).
 
 # Heaviest sauropodomorphs
-
+![alt text](https://github.com/barankarapunar/dinosaur-markdown/blob/main/figures/Longest_dinosaur_by_clade.svg.png)
 *Maraapunisaurus fragilimus*: 79–120 t (87–132 short tons)
 *Argentinosaurus huinculensis*: 65–100 t (72–110 short tons)
 *Mamenchisaurus sinocanadorum*: 60–80 t (66–88 short tons)
